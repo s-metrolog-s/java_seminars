@@ -15,7 +15,7 @@ public class Tree {
         Node n20 = new Node(20);
         Node n21 = new Node(21); // третий узел
         Node n31 = new Node(31);
-        Node n32 = new Node(32);
+        Node n32 = new Node(32); // третий узел
         Node n33 = new Node(33);
 
         root.left = n2;
