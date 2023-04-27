@@ -1,0 +1,432 @@
+апр. 25, 2023 11:09:38 AM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 25, 2023 11:09:38 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 25, 2023 11:09:42 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 25, 2023 11:09:49 AM OOP_HW.Lesson_7.View.SimpleCalcView start
+INFO: Сделаны расчеты: 2*2+2.0 = 6.0
+апр. 25, 2023 11:09:57 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выход из программы
+апр. 25, 2023 11:10:13 AM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 25, 2023 11:10:13 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 25, 2023 11:10:17 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выход из программы
+апр. 25, 2023 11:10:30 AM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 25, 2023 11:10:30 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 25, 2023 11:11:04 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 25, 2023 11:11:14 AM OOP_HW.Lesson_7.View.SimpleCalcView start
+INFO: Сделаны расчеты: 2.0+2.0*2.0 = 6.0
+апр. 25, 2023 11:11:19 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выход из программы
+апр. 25, 2023 11:19:21 AM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 25, 2023 11:19:21 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 25, 2023 11:19:24 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 25, 2023 11:19:37 AM OOP_HW.Lesson_7.View.SimpleCalcView start
+INFO: Сделаны расчеты: 2.34*2,345 = 5.4873
+апр. 25, 2023 11:19:43 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выход из программы
+апр. 25, 2023 3:38:18 PM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 25, 2023 3:38:18 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 25, 2023 3:38:23 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с комплексными числами
+апр. 25, 2023 3:53:40 PM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 25, 2023 3:53:40 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 25, 2023 3:53:45 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с комплексными числами
+апр. 25, 2023 3:53:57 PM OOP_HW.Lesson_7.View.ComplexCalcView start
+INFO: Сделаны расчеты: (1.0+2.0i) - (1.0+2.0i) = (0.0+0.0i)
+апр. 25, 2023 3:54:52 PM OOP_HW.Lesson_7.View.ComplexCalcView start
+INFO: Сделаны расчеты: (5.0+-6.0i) + (-3.0+2.0i) = (2.0+-4.0i)
+апр. 25, 2023 3:56:05 PM OOP_HW.Lesson_7.View.ComplexCalcView start
+INFO: Сделаны расчеты: (5.0+-6.0i) - (-3.0+2.0i) = (8.0+-8.0i)
+апр. 25, 2023 3:56:48 PM OOP_HW.Lesson_7.View.ComplexCalcView start
+INFO: Сделаны расчеты: (2.0+3.0i) * (-1.0+1.0i) = (-5.0+-1.0i)
+апр. 25, 2023 3:57:27 PM OOP_HW.Lesson_7.View.ComplexCalcView start
+INFO: Сделаны расчеты: (-2.0+1.0i) / (1.0+-1.0i) = (-2.0+0.0i)
+апр. 25, 2023 3:58:35 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выход из программы
+апр. 25, 2023 4:06:32 PM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 25, 2023 4:06:32 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 25, 2023 4:06:44 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с комплексными числами
+апр. 25, 2023 4:07:03 PM OOP_HW.Lesson_7.View.ComplexCalcView start
+INFO: Сделаны расчеты: (2.0+5.0i) / (3.0-2.0i) = (3.5555555555555554+6.111111111111111i)
+апр. 25, 2023 4:10:20 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выход из программы
+апр. 25, 2023 5:27:49 PM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 25, 2023 5:27:49 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 25, 2023 5:27:55 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с комплексными числами
+апр. 25, 2023 5:28:13 PM OOP_HW.Lesson_7.View.ComplexCalcView start
+INFO: Сделаны расчеты: (-2.0+1.0i) / (1.0-1.0i) = (-1.5-0.5i)
+апр. 25, 2023 5:28:27 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выход из программы
+апр. 25, 2023 7:47:03 PM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 25, 2023 7:47:03 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 25, 2023 7:47:06 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с комплексными числами
+апр. 25, 2023 7:47:43 PM OOP_HW.Lesson_7.View.ComplexCalcView start
+INFO: Сделаны расчеты: (1.0+2.0i) + (2.0+1.0i) = (3.0+3.0i)
+апр. 25, 2023 7:47:49 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выход из программы
+апр. 25, 2023 7:50:20 PM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 25, 2023 7:50:20 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 25, 2023 7:50:24 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с комплексными числами
+апр. 25, 2023 7:50:58 PM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 25, 2023 7:50:58 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 25, 2023 7:51:02 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с комплексными числами
+апр. 25, 2023 7:51:32 PM OOP_HW.Lesson_7.View.ComplexCalcView start
+INFO: Сделаны расчеты: (1.0+2.0i) - (2.0+4.0i) = (-1.0-2.0i)
+апр. 25, 2023 7:51:37 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выход из программы
+апр. 26, 2023 12:30:22 AM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 26, 2023 12:30:22 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 26, 2023 12:30:26 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 26, 2023 12:30:29 AM OOP_HW.Lesson_7.View.SimpleCalcView start
+INFO: Сделаны расчеты: 1*2 = 2.0
+апр. 26, 2023 12:30:54 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 26, 2023 12:31:00 AM OOP_HW.Lesson_7.View.SimpleCalcView start
+INFO: Сделаны расчеты: 2.8*3 = 8.399999999999999
+апр. 26, 2023 12:58:51 AM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 26, 2023 12:58:51 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 26, 2023 12:58:55 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 26, 2023 11:11:35 AM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 26, 2023 11:11:35 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 26, 2023 11:11:39 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 26, 2023 11:12:04 AM OOP_HW.Lesson_7.View.SimpleCalcView start
+INFO: Сделаны расчеты: 2*-3+2.456*34 = 77.504
+апр. 26, 2023 11:13:18 AM OOP_HW.Lesson_7.View.SimpleCalcView start
+INFO: Сделаны расчеты: 2.0-235*456.3/29 = -3695.603448275862
+апр. 26, 2023 11:13:44 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выход из программы
+апр. 26, 2023 11:22:05 AM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 26, 2023 11:22:05 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 26, 2023 11:22:09 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 26, 2023 11:41:11 AM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 26, 2023 11:41:11 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 26, 2023 11:41:15 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 26, 2023 11:41:21 AM OOP_HW.Lesson_7.View.SimpleCalcView start
+INFO: Сделаны расчеты: 1+1i = 2.0
+апр. 26, 2023 11:41:29 AM OOP_HW.Lesson_7.View.SimpleCalcView start
+INFO: Сделаны расчеты: -1-1i = -2.0
+апр. 26, 2023 11:42:03 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 26, 2023 11:42:09 AM OOP_HW.Lesson_7.View.SimpleCalcView start
+INFO: Сделаны расчеты: -123.0-234.6i = -357.6
+апр. 26, 2023 11:42:16 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выход из программы
+апр. 26, 2023 12:06:20 PM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 26, 2023 12:06:20 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 26, 2023 12:06:38 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с комплексными числами
+апр. 26, 2023 12:13:36 PM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 26, 2023 12:13:36 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 26, 2023 12:13:40 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с комплексными числами
+апр. 26, 2023 12:20:00 PM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 26, 2023 12:20:01 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 26, 2023 12:22:20 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с комплексными числами
+апр. 26, 2023 12:22:36 PM OOP_HW.Lesson_7.View.ComplexCalcView start
+INFO: Сделаны расчеты: (-1.0+2.0i) + (-1.0+2.0i) = (-2.0+4.0i)
+апр. 26, 2023 12:22:50 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 26, 2023 12:23:04 PM OOP_HW.Lesson_7.View.SimpleCalcView start
+INFO: Сделаны расчеты: 25*-2.234+45.34/2 = -33.18
+апр. 26, 2023 12:23:42 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выход из программы
+апр. 26, 2023 12:33:42 PM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 26, 2023 12:33:42 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 26, 2023 12:33:46 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 26, 2023 12:33:54 PM OOP_HW.Lesson_7.View.SimpleCalcView start
+INFO: Сделаны расчеты: 2+2*2 = 6.0
+апр. 26, 2023 12:34:01 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 26, 2023 12:35:36 PM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 26, 2023 12:35:36 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 26, 2023 12:35:40 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 26, 2023 12:35:44 PM OOP_HW.Lesson_7.View.SimpleCalcView start
+INFO: Сделаны расчеты: 2+2*2 = 6.0
+апр. 26, 2023 12:35:49 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 10:34:44 AM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 10:34:44 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 10:34:49 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 10:35:58 AM OOP_HW.Lesson_7.View.SimpleCalcView start
+INFO: Сделаны расчеты: 2+2*2 = 6.0
+апр. 27, 2023 10:36:04 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выход из программы
+апр. 27, 2023 11:38:14 AM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 11:38:14 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 11:38:17 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 11:38:29 AM OOP_HW.Lesson_7.View.SimpleCalcView start
+INFO: Сделаны расчеты: 2.0*2-4 = 0.0
+апр. 27, 2023 11:38:58 AM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 11:38:58 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 11:39:01 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 11:39:22 AM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 11:39:22 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 11:39:27 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 11:41:34 AM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 11:41:34 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 11:41:38 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 11:41:43 AM OOP_HW.Lesson_7.View.SimpleCalcView start
+INFO: Сделаны расчеты: (2+2)*2 = 4.0
+апр. 27, 2023 11:42:00 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выход из программы
+апр. 27, 2023 11:42:09 AM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 11:42:09 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 11:42:13 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 11:44:13 AM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 11:44:13 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 11:44:17 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 11:44:21 AM OOP_HW.Lesson_7.View.SimpleCalcView start
+INFO: Сделаны расчеты: (2+2)*2 = 4.0
+апр. 27, 2023 11:44:35 AM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 11:44:35 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 11:44:38 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 11:51:47 AM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 11:51:47 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 11:51:51 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 11:54:11 AM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 11:54:12 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 11:54:15 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 11:55:50 AM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 11:55:50 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 11:55:54 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 11:56:43 AM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 11:56:43 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 11:56:46 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 11:56:51 AM OOP_HW.Lesson_7.View.SimpleCalcView start
+INFO: Сделаны расчеты: (2+2)*2 = 8.0
+апр. 27, 2023 11:57:10 AM OOP_HW.Lesson_7.View.SimpleCalcView start
+INFO: Сделаны расчеты: 2*(2+2) = 8.0
+апр. 27, 2023 11:58:01 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 11:58:08 AM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 11:58:08 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 11:58:12 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 11:58:26 AM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 11:58:26 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 11:58:30 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 11:58:45 AM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 11:58:45 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 11:58:48 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 11:59:03 AM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 11:59:03 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 11:59:05 AM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 12:01:03 PM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 12:01:03 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 12:01:07 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 12:02:17 PM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 12:02:17 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 12:02:21 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 12:02:26 PM OOP_HW.Lesson_7.View.SimpleCalcView start
+INFO: Сделаны расчеты: -2.5*(2.3/2.4+1)-(2.3+5) = -12.195833333333333
+апр. 27, 2023 12:57:18 PM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 12:57:18 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 12:57:23 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 12:58:11 PM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 12:58:11 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 12:58:15 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 12:58:22 PM OOP_HW.Lesson_7.View.SimpleCalcView start
+INFO: Сделаны расчеты: -2.5*(2.3/2.4+1)-(2.3+5) = -12.195833333333333
+апр. 27, 2023 12:58:56 PM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 12:58:56 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 12:59:01 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 12:59:20 PM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 12:59:20 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 12:59:24 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 1:04:24 PM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 1:04:24 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 1:04:32 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 1:05:25 PM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 1:05:25 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 1:05:29 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 1:06:47 PM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 1:06:47 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 1:06:51 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 1:08:48 PM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 1:08:48 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 1:08:53 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 1:08:58 PM OOP_HW.Lesson_7.View.SimpleCalcView start
+INFO: Сделаны расчеты: -2.5*(2.3/2.4+1)-(2.3+5) = -12.195833333333333
+апр. 27, 2023 1:09:16 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 1:10:07 PM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 1:10:07 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 1:10:11 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 1:11:25 PM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 1:11:25 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 1:11:28 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 1:14:30 PM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 1:14:30 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 1:14:33 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 1:14:44 PM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 1:14:44 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 1:14:49 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 1:15:40 PM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 1:15:40 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 1:15:45 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 1:19:40 PM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 1:19:40 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 1:19:45 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран калькулятор для работы с рациональными числами
+апр. 27, 2023 1:19:47 PM OOP_HW.Lesson_7.View.SimpleCalcView start
+INFO: Сделаны расчеты: -2,5*(2.3/2.4+1)-(2.3+5) = -12.195833333333333
+апр. 27, 2023 1:20:06 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выход из программы
+апр. 27, 2023 2:40:44 PM OOP_HW.Lesson_7.Client.App main
+INFO: Запуск приложения
+апр. 27, 2023 2:40:44 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+апр. 27, 2023 2:40:48 PM OOP_HW.Lesson_7.Core.Controller.Controller startWork
+INFO: Выбран перевод в двоичное представление
